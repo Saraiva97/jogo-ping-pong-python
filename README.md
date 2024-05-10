@@ -1,4 +1,3 @@
-# jogo-ping-pong-python
 
 
 # Projeto: Jogo de Ping Pong em Python
